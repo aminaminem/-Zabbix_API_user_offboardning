@@ -1,4 +1,7 @@
-Zabbix_API_user_offboardning
+# Zabbix_API_user_offboardning
+
+
+# offboarding.sh
 
 This Script is for search or delete user/s in multi servers there is two different script for this job :
 offboarding.sh
